@@ -95,4 +95,36 @@ console.log( 5 !== "5"); //perche' è diverso da 5 quindi true
 //falsy numeri minori o uguali a zero, stringhe vuote, false, null e NaN, undefined
 
 
-If/else
+//If/else
+//if/ else if/ else
+//switch
+//let age = 16;
+//if(age >= 18 && age < 90) {
+    //blocco di istruzioni
+//    console.log("puoi prendere la patente");
+//}else {
+    //blocco di istruzioni
+//    console.log("non puoi prendere la patente");
+//}
+
+// operatore ternario
+//let age = 16;
+//() ? : ; 
+//(age >= 18)? console.log("puoi prendere la patente"): console.log("non prendere la patente"); 
+
+//switch si usa solo in casi selettivi, esempio
+//let color = "orange";
+//switch (color) {
+    //case color = "red"
+    //console.log("sono rosso");
+    //break;
+     //case color = "green"
+    //console.log("sono verde");
+    //break; 
+     //case color = "blu"
+    //console.log("sono blu");
+    //break;
+    //default:
+    //    console.log("colore non disponibile");
+//}
+
